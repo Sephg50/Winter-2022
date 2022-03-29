@@ -5,7 +5,7 @@ Created on Fri Jan  7 13:56:47 2022
 @author: seph
 """
 
-### Analysis of investing characteristics of BTC and the performance of actively managed crypto hedge funds ###
+### Analysis of BTC investing characteristics and performance of actively managed crypto hedge funds ###
 
 import pandas as pd
 import numpy as np
